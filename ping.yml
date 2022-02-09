@@ -1,0 +1,7 @@
+---
+- name: Mi primer playbook
+  hosts: all
+  gather_facts: False
+  tasks:
+    - name: Ejecuta Ping 
+      ping:
