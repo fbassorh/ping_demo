@@ -1,0 +1,5 @@
+collections:
+  - name: ansible.tower
+  - name: community.general 
+  - name: ansible.builtin
+  - name: community.vmware
